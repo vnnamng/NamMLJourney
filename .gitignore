@@ -167,3 +167,4 @@ dataset/
 *.csv
 *.npy
 *.model
+*.pkl
