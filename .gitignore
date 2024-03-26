@@ -168,3 +168,4 @@ dataset/
 *.npy
 *.model
 *.pkl
+*.wordvectors
